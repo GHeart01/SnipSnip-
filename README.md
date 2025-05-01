@@ -2,7 +2,7 @@
 
 A simple Flappy Bird clone made in Unity, replicating the core mechanics of the original game. Control a pair of Scissors, avoid obstacles, and try to achieve the highest score!
 
-![Character]([[YOUR_IMAGE_LINK_HERE](https://github.com/GHeart01/SnipSnip-/blob/main/img/s0.png)](https://github.com/GHeart01/SnipSnip-/blob/main/img/s0.png))  
+![Character](https://github.com/GHeart01/SnipSnip-/blob/main/img/s0.png)
 
 ## Features
 - **Classic Flappy Bird gameplay** – Tap to make the scissors open and close to avoid obstacles.
