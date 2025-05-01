@@ -39,3 +39,9 @@ This project is open-source under the [MIT License](LICENSE).
 ---
 **Enjoy the game!** 🎮  
 Feedback and contributions are welcome.  
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/GHeart01/SnipSnip_Unity_Game.git
